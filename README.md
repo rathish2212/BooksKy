@@ -14,18 +14,24 @@ License
 Demo
 
 Features:
+
 Add new books with title, author, and description.
 Delete books from the collection.
 Responsive design with a user-friendly interface.
 
 Technologies:
+
 HTML5
 CSS3
 JavaScript
 Google Fonts (Poppins)
 
 Installation
+
 Clone the repository:
+
 git clone https://github.com/yourusername/booksky.git
+
 Navigate to the project directory:
+
 cd booksky
